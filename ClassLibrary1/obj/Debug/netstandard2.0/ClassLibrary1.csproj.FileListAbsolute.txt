@@ -1,0 +1,9 @@
+E:\Parvind Data\asp..net\project1\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+E:\Parvind Data\asp..net\project1\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+E:\Parvind Data\asp..net\project1\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+E:\Parvind Data\asp..net\project1\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
+E:\Parvind Data\asp..net\project1\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Parvind Data\asp..net\project1\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\Parvind Data\asp..net\project1\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+E:\Parvind Data\asp..net\project1\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+E:\Parvind Data\asp..net\project1\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
